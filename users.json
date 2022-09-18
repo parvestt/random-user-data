@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "gender": "male",
+    "name": "Parves Hossain Rabby",
+    "contact": "1234567890",
+    "address": "Bogura",
+    "photoUrl": "https://i.ytimg.com/vi/1exK34r_BaU/maxresdefault.jpg"
+  },
+  {
+    "id": 2,
+    "gender": "male",
+    "name": "Sajal Ali",
+    "contact": "1234567890",
+    "address": "Rajshahi",
+    "photoUrl": "https://i.ytimg.com/vi/1exK34r_BaU/maxresdefault.jpg"
+  },
+  {
+    "id": 3,
+    "gender": "male",
+    "name": "Abu Sayed",
+    "contact": "1234567890",
+    "address": "Rajshahi",
+    "photoUrl": "https://i.ytimg.com/vi/1exK34r_BaU/maxresdefault.jpg"
+  },
+  {
+    "id": 4,
+    "gender": "female",
+    "name": "Eru Chitanda",
+    "contact": "1234567890",
+    "address": "Japan",
+    "photoUrl": "https://i.ytimg.com/vi/1exK34r_BaU/maxresdefault.jpg"
+  },
+  {
+    "id": 5,
+    "gender": "female",
+    "name": "Nico Robin",
+    "contact": "1234567890",
+    "address": "Dhaka",
+    "photoUrl": "https://i.ytimg.com/vi/1exK34r_BaU/maxresdefault.jpg"
+  },
+  {
+    "id": 6,
+    "gender": "male",
+    "name": "Hotaro Oreki",
+    "contact": "1234567890",
+    "address": "Japan",
+    "photoUrl": "https://i.ytimg.com/vi/1exK34r_BaU/maxresdefault.jpg"
+  },
+  {
+    "id": 7,
+    "gender": "male",
+    "name": "Hachiman Hikigaya",
+    "contact": "1234567890",
+    "address": "Tokyo",
+    "photoUrl": "https://i.ytimg.com/vi/1exK34r_BaU/maxresdefault.jpg"
+  },
+  {
+    "id": 8,
+    "gender": "female",
+    "name": "Yui Hirasawa",
+    "contact": "1234567890",
+    "address": "Akihabara",
+    "photoUrl": "https://i.ytimg.com/vi/1exK34r_BaU/maxresdefault.jpg"
+  },
+  {
+    "gender": "male",
+    "name": "Kiyotaka Ayanokoji",
+    "contact": "1234567890",
+    "address": "Tokyo",
+    "photoUrl": "https://i.ytimg.com/vi/1exK34r_BaU/maxresdefault.jpg",
+    "id": 9
+  }
+]
